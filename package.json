@@ -1,0 +1,11 @@
+{
+      "name": "openai-chat",
+      "version": "1.0.0",
+      "description": "A simple chat robot using OpenAI API",
+      "scripts": {
+        "start": "node index.js"
+      },
+      "dependencies": {
+        "openai": "^6.23.0"
+      }
+    }
